@@ -29,7 +29,7 @@ const About = () => {
                 </div>
 
                 <p className='my-10 max-w-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt fugit vitae aliquam saepe et velit quia, delectus nemo, nobis eaque odit rerum culpa in doloremque? Facilis ipsum sequi dicta praesentium!</p>
-                <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn More</button>
+                <button className='bg-blue-600 text-white px-8 py-2 rounded cursor-pointer'>Learn More</button>
             </div>
         </div>
     </div>
